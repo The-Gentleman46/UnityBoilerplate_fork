@@ -1,6 +1,10 @@
 # Unity WebGL CI/CD with GitHub Actions
 
+<<<<<<< HEAD
 WebGL published here https://The-Gentleman46.github.io/UnityBoilerplate_fork/
+=======
+WebGL published here (EDIT IT!) https://github.com/The-Gentleman46/UnityBoilerplate_fork.git
+>>>>>>> origin/master
 
 # Setup Steps:
 
