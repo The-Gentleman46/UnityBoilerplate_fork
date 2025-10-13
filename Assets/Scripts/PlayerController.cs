@@ -27,9 +27,6 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector3(rb.linearVelocity.x, 5f, rb.linearVelocity.z);
 
         }
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            rb.linearVelocity = new Vector3(vel.x, vel.y, 3f);
-        }
+ 
     }
 }

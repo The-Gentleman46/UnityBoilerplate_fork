@@ -5,6 +5,6 @@ public class Exit : MonoBehaviour
     public void QuitGame()
     {
         // Quits the application
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Main Menu");
     }
 }
